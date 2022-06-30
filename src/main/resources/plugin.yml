@@ -1,0 +1,8 @@
+name: OrbitalTask
+version: '${project.version}'
+main: com.chilieutenant.orbitaltask.Main
+api-version: 1.19
+commands:
+  fire:
+  explode:
+  lightning:
